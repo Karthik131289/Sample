@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Maven Goal for Git repo..." );
+        System.out.println( Git Goal for Git repo..." );
     }
 }
