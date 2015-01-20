@@ -9,8 +9,8 @@
   <url>https://github.com/karthik131289/Sample</url>
   <scm>
     <url>https://github.com/karthik131289/Sample</url>
-    <connection>scm:git:git://github.com/karthik131289/Sample.git</connection>
-    <developerConnection>scm:git:git@github.com:karthik131289/Sample.git</developerConnection>
+    <connection>scm:git:git://github.com/karthik131289/Sample</connection>
+    <developerConnection>scm:git:git@github.com:karthik131289/Sample</developerConnection>
   </scm>
   <dependencies>
     <dependency>
